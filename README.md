@@ -8,7 +8,7 @@
 For example :-
 Hdjsh asd2324234jghjsd hjsdg sdhk 12212021 idf32432 32423 d34234jh dfh
 
-#Steps to Run in Visual Studio
+# Steps to Run in Visual Studio
 1. Create new Project <br>
 2. Select console app (with C# and .net) template <br>
 3. Copy paste the code into Program.cs file and Hit run(for ctrl + F5) 
