@@ -3,10 +3,6 @@
 ## DOTNET ASSIGNMENT
 
 1. Print triangle - and allow user to set height of it in. Like in the following case it’s 4<br>
-&nbsp;&nbsp;&nbsp;*<br>
-&nbsp;&nbsp;***<br>
-&nbsp;*****<br>
-*******<br>
 
 2. Find valid date (MMDDYYYY) from string.
 For example :-
