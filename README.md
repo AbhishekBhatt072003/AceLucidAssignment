@@ -2,7 +2,7 @@
 
 ## DOTNET ASSIGNMENT
 
-1. Print triangle - and allow user to set height of it in. Like in the following case it’s 4
+1. Print triangle - and allow user to set height of it in. Like in the following case it’s 4<br>
    *<br>
   ***<br>
  *****<br>
